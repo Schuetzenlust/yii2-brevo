@@ -2,8 +2,7 @@
 
 This extension provides a [Brevo](https://www.brevo.com/) mail solution for [Yii framework 2.0](http://www.yiiframework.com).
 
-[![Latest Stable Version](https://poser.pugx.org/Schuetzenlust/yii2-brevo/v/stable)](https://packagist.org/packages/Schuetzenlust/yii2-brevo)
-[![Total Downloads](https://poser.pugx.org/Schuetzenlust/yii2-brevo/downloads)](https://packagist.org/packages/Schuetzenlust/yii2-brevo)
+[![Latest Stable Version](http://poser.pugx.org/schuetzenlust/yii2-brevo/v)](https://packagist.org/packages/schuetzenlust/yii2-brevo) [![Total Downloads](http://poser.pugx.org/schuetzenlust/yii2-brevo/downloads)](https://packagist.org/packages/schuetzenlust/yii2-brevo) [![Latest Unstable Version](http://poser.pugx.org/schuetzenlust/yii2-brevo/v/unstable)](https://packagist.org/packages/schuetzenlust/yii2-brevo) [![License](http://poser.pugx.org/schuetzenlust/yii2-brevo/license)](https://packagist.org/packages/schuetzenlust/yii2-brevo) [![PHP Version Require](http://poser.pugx.org/schuetzenlust/yii2-brevo/require/php)](https://packagist.org/packages/schuetzenlust/yii2-brevo)
 
 ## Installation
 

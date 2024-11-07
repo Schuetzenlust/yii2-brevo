@@ -24,6 +24,17 @@ class Message extends BaseMessage
 {
 
     /**
+     *
+     * @inheritdoc
+     */
+    public function setTags($tags)
+    {    
+        $this->brevoModel->setTags($tags);
+    
+        return $this;
+    }
+
+    /**
      * The charset placeholder
      *
      * @var   string
